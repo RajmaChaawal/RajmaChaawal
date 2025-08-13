@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm a guy having an accidental CSE background!<br><br>- 🔭 I’m a college fella, at GLA,Mathura!<br>- 📚 Currently learning Full stack & AI!<br>- ⚡ In my free time I write proses/verses and experience stargazing!</p>
+<p align="left">I'm a guy having an accidental CSE background!<br><br>- 🔭 I’m a college fella, at GLA,Mathura!<br>- 📚 Currently learning Full stack & AI!<br>- ⚡ In my free time I write proses/verses,make sketches and experience stargazing!</p>
 
 ###
 
