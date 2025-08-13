@@ -8,7 +8,9 @@
   <a href="https://www.instagram.com/rajma.chaawalll/?__pwa=1#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/laksh-sharma-2765bb311/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
   <a href="https://discord.com/channels/@universal_homie" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
@@ -30,7 +32,7 @@
 
 ###
 
-<p align="left">I'm a guy having an accidental CSE background!<br><br>- 🔭 I’m a college fella, at GLA,Mathura!<br>- 📚 Currently learning Full stack & AI!<br>- ⚡ In my free time I write proses/verses,make sketches and experience stargazing!</p>
+<p align="left">I'm a guy having an accidental CSE background!<br><br>- 🔭 I’m a college fella, at GLA,Mathura!<br>- 📚 Currently learning Full stack & AI!<br>- ⚡ In my free time I write proses/verses and experience stargazing!</p>
 
 ###
 
